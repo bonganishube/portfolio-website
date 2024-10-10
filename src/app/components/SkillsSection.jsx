@@ -50,7 +50,7 @@ const SkillsSection = () => {
           <h2 className="headline-2 flex items-center justify-center md:justify-start lg:justify-start">
             Essential Tools I Use
           </h2>
-          <p className="text-zinc-400 mt-3 mb-8 max-w-[50ch]">
+          <p className="text-zinc-400 mt-3 mb-8 max-w-[50ch] text-center md:text-start lg:text-start">
             Discover the powerful tools and technologies I use to create exceptional, high-performing websites & applications.
           </p>
 
