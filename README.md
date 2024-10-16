@@ -4,7 +4,7 @@ Welcome to my portfolio website! This project, built with Next.js and Tailwind C
 
 ## Introduction
 
-Hi! I’m [Your Name], a [Your Profession] with a passion for [Your Interests/Skills]. This site is a reflection of my journey and the work I’ve done in [specific fields or technologies].
+Hi! I’m Bongani Shube, a Full-Stack Engineer with a passion for creating intuitive and responsive applications. This site is a reflection of my journey and the work I’ve done in.
 
 ## Installation
 
@@ -44,18 +44,9 @@ This portfolio utilizes the following technologies:
 - **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
 - **Resend**: An email API designed for developers.
 
-## Projects
-
-Here are some of the standout projects included in my portfolio:
-
-- **[Project Name 1]**: A brief description of what the project is about.
-- **[Project Name 2]**: A brief description of what the project is about.
-- **[Project Name 3]**: A brief description of what the project is about.
-
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code as per the terms of the license.
-
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 ## Connect with Me
 
 I’d love to hear from you! You can connect with me through:
