@@ -45,7 +45,7 @@ const HeroSection = () => {
               href="/#contact"
               className="px-6 inline-block py-3 sm:w-fit rounded-full mr-4 bg-gradient-to-br from-[#FEE84C] to-[#FEE84C] hover:bg-slate-200 text-black font-semibold"
             >
-              Contact Me
+              Let's Connect
             </Link>
             {/* <Link
               href="/"
